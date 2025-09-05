@@ -1,5 +1,6 @@
 import pandas as pd
 import plotly.express as px
+import flet
 
 tabela = pd.read_csv('relacoesVenda.csv')
 
